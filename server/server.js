@@ -10,7 +10,6 @@ connectDB();
 
 const app = express();
 
-// Just add your Vercel URL to the array
 app.use(cors({
   origin: [
     'http://localhost:3000',
