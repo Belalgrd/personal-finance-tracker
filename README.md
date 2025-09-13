@@ -33,14 +33,16 @@
 
 ---
 
-## 🌟 Demo
+## :camera: Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/6366f1/ffffff?text=Personal+Finance+Tracker+Demo" alt="Demo" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  <h3>📊 Dashboard Overview</h3>
+  <img src="./images/dashboard.png" alt="Dashboard" width="800" style="border-radius: 10px; margin: 10px;" />
+  
+  <h3>➕ Add Transaction</h3>
+  <img src="./images/add-transaction.png" alt="Add Transaction" width="800" style="border-radius: 10px; margin: 10px;" />
+  
 </div>
-
----
-
 ## :sparkles: Features
 
 <table>
@@ -125,5 +127,5 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/personal-finance-tracker.git
+   git clone https://github.com/Belalgrd/personal-finance-tracker.git
    cd personal-finance-tracker
